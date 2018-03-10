@@ -1,0 +1,13 @@
+name: AggXtream
+title: AggXtream
+username:
+account: octaviodeliberato
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 297015
+bundleId: 1262503
+url: https://octaviodeliberato.shinyapps.io/AggXtream/
+when: 1520696145.28462
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: PFD|www/PFD.png
